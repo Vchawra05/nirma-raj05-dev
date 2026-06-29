@@ -5,7 +5,7 @@ on:
       - dev
 env:
   AWS_REGION: us-east-1
-  S3_BUCKET_NAME: nirma-raj05-dev
+  S3_BUCKET_NAME: testnirmaworkshop-aws-rajesh05
 jobs:
   deploy:
     runs-on: ubuntu-latest
